@@ -1,1 +1,1 @@
-# moderasyoncuk
+# Redmi Discord Sunucusu Moderasyon Botu
